@@ -2,7 +2,7 @@
 
 Vestigium Code in Python by Abhishek Tripathi
 
-Thanks to Abhishek for offering sucha a concise and simplified code.
+Thanks to Abhishek for offering such a concise and simplified code.
 
 ## Problem A - Vestigium
 
