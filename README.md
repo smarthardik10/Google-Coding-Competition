@@ -1,5 +1,9 @@
 # Google-Coding-Competition
 
+Vestigium Code in Python by Abhishek Tripathi
+
+Thanks to Abhishek for offering sucha a concise and simplified code.
+
 ## Problem A - Vestigium
 
 
